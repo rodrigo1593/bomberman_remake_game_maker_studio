@@ -1,0 +1,4 @@
+weird things
+------------
+
+-when the reference or the sprite that has a reference is deleted then the game cant manage the enemy so maybe they move outside the screen and then gets destroyed. and then i win the level easily.
