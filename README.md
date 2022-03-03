@@ -18,3 +18,8 @@ well... there you go, have fun with this!
 bye.
 
 OH WAIT I NEED RELEAS-
+
+
+
+
+(need to tell that the /configs should be extracted if you need more. (stupid github let me put more than 100 files x,d))
